@@ -23,7 +23,10 @@
 .details{
     display: flex;
 }
-
+.icon-img{
+    width: 50px !important;
+    height: 32px;
+}
 @media only screen and (max-width:415px){
     .product-feature{
        flex-direction: column;
