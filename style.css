@@ -24,7 +24,7 @@
     display: flex;
 }
 .icon-img{
-    width: 50px !important;
+    width: 24px;
     height: 32px;
 }
 @media only screen and (max-width:415px){
